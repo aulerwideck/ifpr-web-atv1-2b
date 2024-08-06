@@ -1,3 +1,41 @@
 .nav-details{
-    background-color: white;
+    background-color: #C5705D;
+    font-size: 25px;
+    
+}
+.nav-details a{
+    color: #F8EDE3;
+}
+
+.nav-details a:hover{
+    color: #DFD3C3;
+}
+
+.nav-details:hover{
+    color: #C5705D !important;
+}
+
+.principal{
+    background-color: #F8EDE3;
+}
+
+.btn-cta{
+    background-color: #C5705D;
+    color: #F8EDE3;
+}
+.btn-cta:hover{
+    background-color: #C5705D;
+    color: black;
+}
+
+.album{
+    background-color: #DFD3C3;
+}
+
+.footer{
+    background-color: #F8EDE3;
+}
+
+.icon-custom{
+    color: #C5705D;
 }
